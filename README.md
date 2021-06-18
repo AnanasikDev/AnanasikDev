@@ -7,7 +7,9 @@ I am game developer. I love programming and IT sphere in general. I also do some
 Right now i work on following projects:
 
 <a href="https://github.com/olegeer/The_Swap_Engage_Public">The Swap: Engage</a>
+
 <a href="https://github.com/olegeer/Strategy">GunsVsMonstersREMAKE</a>
+
 <a href="https://github.com/olegeer/Hexagon">Hexagon</a>
 
 Check them:D
