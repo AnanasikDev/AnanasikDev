@@ -22,7 +22,10 @@ Libraries:
 
 ᅠᅠVII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a>
 
+Apps:
+
 ᅠᅠVIII. <a href="https://github.com/AnanasikDev/MineCad">MineCad</a>
+ᅠᅠIX.   <a href="https://github.com/AnanasikDev/Pine">Pine</a>
 
 
 I have a <a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>, mostly for my fans, friends and contributors. Join us:3
