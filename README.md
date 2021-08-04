@@ -4,21 +4,25 @@ I am Ananasik - a student, who loves <b>programming, gamedev and IT</b> sphere i
 
 Projects I am working on:
 
- I.    <a href="https://github.com/AnanasikDev/The_Swap_Engage_Public">The Swap: Engage</a>
+Games:
 
- II.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a>
+ᅠᅠI.    <a href="https://github.com/AnanasikDev/The_Swap_Engage_Public">The Swap: Engage</a>
 
- III.  <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a>
+ᅠᅠII.   <a href="https://github.com/AnanasikDev/Outlander">Outlander</a>
 
- IV.   <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a>
+ᅠᅠIII.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump</a>
+ 
+ᅠᅠIV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a>
+ 
+Libraries:
+ 
+ᅠᅠV.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a>
 
- V.    <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a>
+ᅠᅠVI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a>
 
- VI.   <a href="https://github.com/AnanasikDev/Outlander">Outlander</a>
+ᅠᅠVII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a>
 
- VII.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump</a>
-
- VIII. <a href="https://github.com/AnanasikDev/MineCad">MineCad</a>
+ᅠᅠVIII. <a href="https://github.com/AnanasikDev/MineCad">MineCad</a>
 
 
 I have a <a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>, mostly for my fans, friends and contributors. Join us:3
