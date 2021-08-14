@@ -17,8 +17,6 @@ V.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a><br/>
 VI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a><br/>
 VII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a><br/>
 
-<a href="https://twitter.com/Ananasi95910479" target="_blank"><img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Twitter" style="width: 200px; height: 44px;" width="100" height="22" /></a>
+I have a <a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>, mostly for my fans, friends and contributors. Join us:3<br/>
+I post news about my main project (The Swap: Engage) on my <a href="https://twitter.com/Ananasi95910479">Twitter</a>
 
-I have a <a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>, mostly for my fans, friends and contributors. Join us:3
-
-Also I have <a href="https://www.youtube.com/channel/UCeZG4B_HLpamjCuPPUj3gzA">YouTube Channel</a>. I do devlogs about my main project.
