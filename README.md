@@ -6,21 +6,16 @@ Projects I am working on:
 
 Games:
 
-ᅠᅠI.    <a href="https://github.com/AnanasikDev/The_Swap_Engage_Public">The Swap: Engage</a><br/>
-ᅠᅠII.   <a href="https://github.com/AnanasikDev/Outlander">Outlander</a><br/>
-ᅠᅠIII.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump</a><br/>
-ᅠᅠIV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a><br/>
+I.    <a href="https://github.com/AnanasikDev/The_Swap_Engage_Public">The Swap: Engage</a><br/>
+II.   <a href="https://github.com/AnanasikDev/Outlander">Outlander</a><br/>
+III.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump</a><br/>
+IV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a><br/>
  
 Libraries:
 
-ᅠᅠV.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a><br/>
-ᅠᅠVI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a><br/>
-ᅠᅠVII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a><br/>
-
-Apps:
-
-ᅠᅠVIII. <a href="https://github.com/AnanasikDev/MineCad">MineCad</a><br/>
-ᅠᅠIX.   <a href="https://github.com/AnanasikDev/Pine">Pine</a><br/>
+V.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a><br/>
+VI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a><br/>
+VII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a><br/>
 
 
 
