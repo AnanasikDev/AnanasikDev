@@ -17,7 +17,7 @@ V.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset</a><br/>
 VI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library</a><br/>
 VII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library</a><br/>
 
-
+[![Twitter](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)](https://twitter.com/Ananasi95910479)
 
 I have a <a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>, mostly for my fans, friends and contributors. Join us:3
 
