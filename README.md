@@ -2,7 +2,7 @@
 
 I am Ananasik - a student, who loves <b>programming, gamedev and IT</b> sphere in general. I am into it since 2020 Jan. I learned Python and C#. 
 
-Projects I am working on:
+Projects I am working on/I made:
 
 Games:
 
