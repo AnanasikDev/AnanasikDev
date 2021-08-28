@@ -4,13 +4,10 @@ I am ETeal J - a student, who loves <b>programming, gamedev and IT</b> sphere in
 
 Projects I am working on/I made:
 
-🧊-ed are freezed projects
-
-🔨-ed are projects in developing
-
-🔥-ed are my favourite projects
-
-🔒-ed are finished projects 
+🧊-ed are freezed projects<br>
+🔨-ed are projects in developing<br>
+🔥-ed are my favourite projects<br>
+🔒-ed are finished projects <br>
 
 Games:
 
