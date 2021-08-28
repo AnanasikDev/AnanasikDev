@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <b>ETeal J</b> - a student, who loves <b>programming, gamedev and IT</b> sphere in general. I am into it since 2020 Jan. I learned Python and <b>C#</b>. 
+I am <b>ETeal J</b> (most known as Ananasik) - a student, who loves <b>programming, gamedev and IT</b> sphere in general. I am into it since 2020 Jan. I learned Python and <b>C#</b>. 
 
 Projects I am working on/I made:
 
