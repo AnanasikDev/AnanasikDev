@@ -12,7 +12,7 @@ Projects I am working on/I made:
 Games:
 
 I.    <a href="https://github.com/AnanasikDev/The_Swap_Engage_Public">The Swap: Engage🔨🔥</a><br/>
-II.   <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥</a><br/>
+II.   <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥🔒</a><br/>
 III.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🧊🔥</a><br/>
 IV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a><br/>
  
