@@ -4,10 +4,10 @@ I am **ETeal J** *(most known as Ananasik)* - a **student**, who loves **program
 
 Projects I am working on/I made:
 
-🧊-ed are freezed projects<br>
-🔨-ed are projects in developing<br>
-🔥-ed are my favourite projects<br>
-🔒-ed are finished projects <br>
+*🧊-ed* are **freezed** projects<br>
+*🔨-ed* are projects in **developing**<br>
+*🔥-ed* are my **favourite** projects<br>
+*🔒-ed* are **finished** projects <br>
 
  **Games:**
 
