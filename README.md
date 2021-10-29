@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **ETeal J** *(most known as Ananasik)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#**. 
+I am **ETeal J** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#**. 
 
 <hr>
 
@@ -23,7 +23,7 @@ VI.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🧊</a><b
 VII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🧊</a><br/>
 VIII. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
 IX.   Debris - *dynamic voxel destruction system*🔥🧊<br/>
-X.    CharacterController - *1st person ultimative character controller for Unity*🔥🔨<br/>
+X.    CharacterController🔥🔨<br/>
 XI.   Localization system🔥🧊<br/>
 XII.  <a href="https://github.com/AnanasikDev/CurveGenerator">Curve Generator🔨</a><br/>
 XIII. <a href="https://github.com/AnanasikDev/IInput">IInput🧊</a><br/>
