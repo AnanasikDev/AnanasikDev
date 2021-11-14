@@ -25,7 +25,7 @@ VIII. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger�
 IX.   Debris - *dynamic voxel destruction system*🔥🧊<br/>
 X.    CharacterController🔥🔨<br/>
 XI.   Localization system🔥🧊<br/>
-XII.  <a href="https://github.com/AnanasikDev/CurveGenerator">Curve Generator🔨</a><br/>
+XII.  <a href="https://github.com/AnanasikDev/CurveGenerator">Curve Generator🧊</a><br/>
 XIII. <a href="https://github.com/AnanasikDev/IInput">IInput🧊</a><br/>
 
 <hr>
