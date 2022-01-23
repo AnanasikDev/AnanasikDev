@@ -19,13 +19,13 @@ V.    <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><
  
 **Libraries & Assets:**
 
-VI.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
+VI.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset🔨🔥</a><br/>
 VII.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🧊</a><br/>
 VIII.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🧊</a><br/>
 IX.    <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
 X.     Debris - *dynamic voxel destruction system*🔥🧊<br/>
-XI.    CharacterController🔥🔨<br/>
-XII.   Localization system🔥🧊<br/>
+XI.    CharacterController🔥🧊<br/>
+XII.   Localization system🧊<br/>
 XIII.  <a href="https://github.com/AnanasikDev/CurveGenerator">Curve Generator🧊</a><br/>
 XIV.   <a href="https://github.com/AnanasikDev/IInput">IInput🧊</a><br/>
 
