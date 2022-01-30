@@ -16,7 +16,7 @@ II.   <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥🔒</a><b
 III.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🧊🔥</a><br/>
 IV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊🔥</a><br/>
 V.    <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><br/>
-VI.   <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
+VI.   <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥</a><br/>
  
 **Libraries & Assets:**
 
