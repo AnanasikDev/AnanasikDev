@@ -13,16 +13,16 @@ I am **ETeal J** *(most known as **Ananasik**)* - a **student**, who loves **pro
 
 I.    <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
 II.   <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥🔒</a><br/>
-III.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🧊🔥</a><br/>
+III.  <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🧊</a><br/>
 IV.   <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊🔥</a><br/>
 V.    <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><br/>
-VI.   <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥</a><br/>
+VI.   <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
  
 **Libraries & Assets:**
 
 VII.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset🔨🔥</a><br/>
 VIII.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🧊</a><br/>
-IX.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🧊</a><br/>
+IX.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🔨</a><br/>
 X.    <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
 XI.     Debris - *dynamic voxel destruction system*🔥🧊<br/>
 XII.    CharacterController🔥🧊<br/>
