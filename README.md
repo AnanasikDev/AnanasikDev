@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **ETeal J** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#**. Right now I am learning **C++** to work in **Unreal Engine 5**. 
+I am **ETeal J** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#** + **Unity**. I tried to learn **C++** & **Unreal Engine 5** but I decided to continue working on **Unity**.
 
 <hr>
 
@@ -21,8 +21,8 @@ VI.   <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><b
 **Libraries & Assets:**
 
 VII.    <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
-VIII.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🧊</a><br/>
-IX.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🧊</a><br/>
+VIII.   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔨</a><br/>
+IX.  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🔨</a><br/>
 X.    <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
 XI.     Debris - *dynamic voxel destruction system*🔥🧊<br/>
 XII.    CharacterController🔥🧊<br/>
