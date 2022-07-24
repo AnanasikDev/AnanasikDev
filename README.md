@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **ETeal J** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#** + **Unity**. I tried to learn **C++** & **Unreal Engine 5** but I decided to continue working on **Unity**.
+I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#** + **Unity**. I tried to learn **C++** & **Unreal Engine 5** but I decided to continue working on **Unity**.
 
 <hr>
 
@@ -21,11 +21,11 @@ VII  <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔨</a><br/>
  
 **Libraries & Assets:**
 
-VIII    <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
-IX   <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔨</a><br/>
-X  <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🧊</a><br/>
+VIII  <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
+IX    <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🧊</a><br/>
+X     <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🧊</a><br/>
 XI    <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
-XII    CharacterController🔥🧊<br/>
+XII   <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
 
 <hr>
 
