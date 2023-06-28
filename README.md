@@ -17,7 +17,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 4. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊🔥</a><br/>
 5. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><br/>
 6. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
-7. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
+7. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🔨</a><br/>
  
 **Libraries & Assets:**
 
