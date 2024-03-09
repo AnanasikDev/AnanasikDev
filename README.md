@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python** and **C#** + **Unity**. I tried to learn **C++** & **Unreal Engine 5** but I decided to continue working on **Unity**.
-
+I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python**, **C#** + **Unity** and little bit of **C++**.
 <hr>
 
 *🧊-ed* are **freezed** projects<br>
@@ -13,11 +12,11 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 
 1. <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
 2. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥🔒</a><br/>
-3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🧊</a><br/>
-4. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊🔥</a><br/>
+3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔨</a><br/>
+4. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
 5. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><br/>
 6. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
-7. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🔨</a><br/>
+7. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
  
 **Libraries & Assets:**
 
@@ -27,6 +26,10 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 4. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
 5. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
 6. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
+
+**Other:**
+
+1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥🔨</a><br/>
 
 **Articles:**
 
