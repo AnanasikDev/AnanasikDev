@@ -11,12 +11,12 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
  **Games:**
 
 1. <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔥🔒</a><br/>
-3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔨</a><br/>
-4. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
-5. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥🔒</a><br/>
-6. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
-7. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
+2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
+3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🔨</a><br/>
+4. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥</a><br/>
+5. <a href="https://github.com/AnanasikDev/Outlander">Outlander</a><br/>
+6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
+7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔒</a><br/>
  
 **Libraries & Assets:**
 
@@ -29,7 +29,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 
 **Other:**
 
-1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥🔨</a><br/>
+1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥</a><br/>
 
 **Articles:**
 
