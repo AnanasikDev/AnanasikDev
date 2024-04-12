@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python**, **C#** + **Unity** and little bit of **C++**.
+I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **student**, who loves **programming, gamedev and IT** sphere in general. I am into it since **2020 Jan**. I learned **Python**, **C#** + **Unity**, little bit of **C++** and **Java**.
 <hr>
 
 *🧊-ed* are **freezed** projects<br>
@@ -30,6 +30,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 **Other:**
 
 1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥</a><br/>
+2. <a href="https://github.com/AnanasikDev/Calculator">Calculator in Java🔒</a><br/>
 
 **Articles:**
 
