@@ -11,8 +11,8 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
  **Games:**
 
 1. <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
-3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🔨</a><br/>
+2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🔨</a><br/>
+3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🧊</a><br/>
 4. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥</a><br/>
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander</a><br/>
 6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
@@ -21,10 +21,10 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 **Libraries & Assets:**
 
 1. <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🧊</a><br/>
+2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔨</a><br/>
 3. <a href="https://github.com/AnanasikDev/Lettuce">Lettuce Library🔥🧊</a><br/>
 4. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔥🔒</a><br/>
-5. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
+5. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🔨</a><br/>
 6. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
 
 **Other:**
