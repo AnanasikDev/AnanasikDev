@@ -38,4 +38,4 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 
 <hr>
 
-I have a ***<a href="https://discord.gg/HRB6KG8Xby">Discord Server</a>***, mostly for my fans, friends and contributors. Join us:3<br/>
+Contact via Discord: Ananaseek#5568
