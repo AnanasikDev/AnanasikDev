@@ -17,6 +17,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔒</a><br/>
 6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
 7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥</a><br/>
+8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing🔥🔨</a><br/>
  
 **Libraries & Assets:**
 
