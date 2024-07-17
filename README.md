@@ -40,3 +40,5 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 <hr>
 
 Contact via Discord: Ananaseek#5568
+
+My itch.io page: https://ananasikdeveloper.itch.io/
