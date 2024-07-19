@@ -4,7 +4,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 <hr>
 
 *🧊-ed* are **freezed** projects<br>
-*🔨-ed* are projects in **developing**<br>
+*🔨-ed* are projects in **development**<br>
 *🔥-ed* are my **favourite** projects<br>
 *🔒-ed* are **finished** projects <br>
 
