@@ -42,3 +42,4 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 Contact via Discord: Ananaseek#5568
 
 My itch.io page: https://ananasikdeveloper.itch.io/
+My ArtStation: https://www.artstation.com/ananasikfurry
