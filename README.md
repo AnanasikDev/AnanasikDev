@@ -33,6 +33,7 @@ I am **Ananaseek** or **AnanseekJam** *(most known as **Ananasik**)* - a **stude
 
 1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥</a><br/>
 2. <a href="https://github.com/AnanasikDev/Calculator">Calculator in Java🔒</a><br/>
+3. <a href="https://github.com/AnanasikDev/MinecraftMod">Silly Minecraft mod🔨</a><br/>
 
 **Articles:**
 
