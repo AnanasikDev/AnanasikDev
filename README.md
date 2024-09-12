@@ -31,10 +31,11 @@ I am **Ananaseek** or **AnanseekJam** - I am a young furry enthusiast with passi
 
 **Other:**
 
-1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Neural Network learning to play Flappy Bird🔥</a><br/>
+1. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Genetic algorithm learning to play Flappy Bird🔥</a><br/>
 2. <a href="https://github.com/AnanasikDev/Calculator">Calculator in Java🔒</a><br/>
-3. <a href="https://github.com/AnanasikDev/MinecraftMod">Silly Minecraft mod🔨</a><br/>
+3. <a href="https://github.com/AnanasikDev/MinecraftMod">Silly Minecraft mod</a><br/>
 4. <a href="https://github.com/AnanasikDev/SFML-game">C++ SFML 2D Game Engine🔨🔥</a><br/>
+5. <a href="https://github.com/AnanasikDev/Autoclicker">Anti-anti-autoclicker in Java🔒</a><br/>
 
 **Articles:**
 
