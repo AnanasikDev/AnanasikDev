@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** - I am a young furry enthusiast with passion for game development, programming and 3D sculpting. Having embraced on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
+I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for game development, programming and 3D sculpting. Having embraced on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
 <hr>
 
 *🧊-ed* are **freezed** projects<br>
@@ -37,6 +37,8 @@ I am **Ananaseek** or **AnanseekJam** - I am a young furry enthusiast with passi
 4. <a href="https://github.com/AnanasikDev/SFML-game">C++ SFML 2D Game Engine🔨🔥</a><br/>
 5. <a href="https://github.com/AnanasikDev/Autoclicker">Anti-anti-autoclicker in Java🔒</a><br/>
 
+I have also been contributing as a translator to other projects such as <a href="https://www.hedycode.com/">Hedy</a> and <a href="https://store.steampowered.com/app/2827230/Wild_Assault/">Wild Assault</a>. More about it at <a href="https://hosted.weblate.org/user/Ananaseek/">Weblate</a><br>
+
 **Articles:**
 
 1. <a href="https://gist.github.com/AnanasikDev/5428d58d26ef165ca74457f8ba163290">Unity: Islands Generator</a><br/>
@@ -45,5 +47,5 @@ I am **Ananaseek** or **AnanseekJam** - I am a young furry enthusiast with passi
 
 Contact via Discord: Ananaseek#5568
 
-My itch.io page: https://ananasikdeveloper.itch.io/
-My ArtStation: https://www.artstation.com/ananasikfurry
+My itch.io page: https://ananasikdeveloper.itch.io/<br>
+My ArtStation: https://www.artstation.com/ananasikfurry<br>
