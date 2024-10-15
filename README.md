@@ -17,13 +17,13 @@ I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔒</a><br/>
 6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
 7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥</a><br/>
-8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing (MiniJam #162)🔥🔨</a><br/>
+8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing (MiniJam #162)🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/Dessert">Tiny Kiosk (MiniJam #163)🧊</a><br/>
  
 **Libraries & Assets:**
 
 1. <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔨</a><br/>
+2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔒</a><br/>
 3. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
 5. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
