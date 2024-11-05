@@ -15,8 +15,8 @@ I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for
 3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔒</a><br/>
-6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)🧊</a><br/>
-7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🔥</a><br/>
+6. <a href="https://github.com/AnanasikDev/Strategy">Guns Vs Monsters (REMAKE)</a><br/>
+7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🧊</a><br/>
 8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing (MiniJam #162)🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/Dessert">Tiny Kiosk (MiniJam #163)🧊</a><br/>
  
