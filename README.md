@@ -26,7 +26,7 @@ I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for
 2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔒</a><br/>
 3. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
-5. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
+5. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🔨</a><br/>
 
 **Other:**
 
