@@ -43,7 +43,8 @@ I have also been contributing as a translator to other projects such as <a href=
 
 **Articles:**
 
-1. <a href="https://gist.github.com/AnanasikDev/5428d58d26ef165ca74457f8ba163290">Unity: Islands Generator</a><br/>
+1. <a href="https://gist.github.com/AnanasikDev/5428d58d26ef165ca74457f8ba163290">Unity: Islands Generator</a> (2022-08)<br/>
+2. <a href="https://medium.com/@furryananasik/software-driven-devices-essay-2f32cc913ea2">Software-Driven Devices: essay</a> (2024-11)<br/>
 
 <hr>
 
