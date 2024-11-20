@@ -19,6 +19,8 @@ I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for
 7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🧊</a><br/>
 8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing (MiniJam #162)🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/Dessert">Tiny Kiosk (MiniJam #163)🧊</a><br/>
+10. <a href="https://github.com/AnanasikDev/RecycleFactory">Recycle Factory🔨</a><br/>
+
  
 **Libraries & Assets:**
 
@@ -34,7 +36,7 @@ I am **Ananaseek** or **AnanseekJam** - I am a young enthusiast with passion for
 2. <a href="https://github.com/AnanasikDev/FlappyBirdAI">Genetic algorithm learning to play Flappy Bird🔥🔒</a><br/>
 3. <a href="https://github.com/AnanasikDev/Calculator">Calculator in Java🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/MinecraftMod">Silly Minecraft mod</a><br/>
-5. <a href="https://github.com/AnanasikDev/SFML-game">C++ SFML 2D Game Engine🔨🔥</a><br/>
+5. <a href="https://github.com/AnanasikDev/SFML-game">C++ 2D Game Engine + Game🔨🔥</a><br/>
 6. <a href="https://github.com/AnanasikDev/Autoclicker">Anti-anti-autoclicker in Java🔒</a><br/>
 
 I have also been contributing as a translator to other projects such as <a href="https://www.hedycode.com/">Hedy</a> and <a href="https://store.steampowered.com/app/2827230/Wild_Assault/">Wild Assault</a>. More about it at <a href="https://hosted.weblate.org/user/Ananaseek/">Weblate</a><br>
