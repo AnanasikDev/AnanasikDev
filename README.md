@@ -52,5 +52,6 @@ I have also been contributing as a translator to other projects such as <a href=
 
 Contact via Discord: Ananaseek#5568
 
-My itch.io page: https://ananasikdeveloper.itch.io/<br>
-My ArtStation: https://www.artstation.com/ananasikfurry<br>
+My <a href="https://ananasikdeveloper.itch.io/">itch.io</a><br>
+My <a href="https://www.artstation.com/ananasikfurry">ArtStation</a><br>
+My models on <a href="https://www.cgtrader.com/designers/ananasik">CGTrader</a> and <a href="https://sketchfab.com/furryananasik">Sketchfab</a><br>
