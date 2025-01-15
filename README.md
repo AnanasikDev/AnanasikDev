@@ -19,7 +19,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 7. <a href="https://github.com/AnanasikDev/SpaceTime">Space Time🧊</a><br/>
 8. <a href="https://github.com/AnanasikDev/FerventLonging">Fervent Longing (MiniJam #162)🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/Dessert">Tiny Kiosk (MiniJam #163)🧊</a><br/>
-10. <a href="https://github.com/AnanasikDev/RecycleFactory">Recycle Factory🔨</a><br/>
+10. <a href="https://github.com/AnanasikDev/RecycleFactory">Recycle Factory🔒</a><br/>
 
  
 **Libraries & Assets:**
