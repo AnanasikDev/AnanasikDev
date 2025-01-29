@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game development, programming and 3D sculpting. Having embarked on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
+I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game development, programming and 3D sculpting. Having embarked on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++**, **C** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
 <hr>
 
 *🧊-ed* are **freezed** projects<br>
