@@ -11,7 +11,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
  **Games:**
 
 1. <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
+2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🔨</a><br/>
 3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔒</a><br/>
@@ -27,8 +27,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 1. <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
 2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔒</a><br/>
 3. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔒</a><br/>
-4. <a href="https://github.com/AnanasikDev/CharacterController">CharacterController🔥🧊</a><br/>
-5. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
+4. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🔨</a><br/>
 
 **Other:**
 
@@ -37,7 +36,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 3. <a href="https://github.com/AnanasikDev/Calculator">Calculator in Java🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/MinecraftMod">Silly Minecraft mod</a><br/>
 5. <a href="https://github.com/AnanasikDev/RacingCVController">Computer Vision racing controller🔥🔒</a><br/>
-6. <a href="https://github.com/AnanasikDev/SFML-game">C++ 2D Game Engine + Game🔨🔥</a><br/>
+6. <a href="https://github.com/AnanasikDev/SFML-game">C++ 2D Game Engine + Game🔥🔒</a><br/>
 7. <a href="https://github.com/AnanasikDev/Autoclicker">Anti-anti-autoclicker in Java🔒</a><br/>
 8. <a href="https://github.com/AnanasikDev/BrainfuckInterpreter">Brainfuck interpreter in C🔥🔒</a><br/>
 
