@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game development, programming and 3D sculpting. Having embarked on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++**, **C** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
+I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game development, programming and art. Having embarked on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++**, **C** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="28" height="28"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="28" height="28"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="28" height="28"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="28" height="28"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="28" height="28"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" height="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="28" height="28"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="28" height="28"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" height="28"/>
 
 <hr>
 
