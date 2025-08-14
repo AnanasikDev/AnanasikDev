@@ -9,6 +9,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="28" height="28"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" height="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Git" width="28" height="28"/>
 
 <hr>
 
