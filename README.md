@@ -69,4 +69,4 @@ Contact via Discord: Ananaseek#5568
 
 My <a href="https://ananasikdeveloper.itch.io/">itch.io</a><br>
 My <a href="https://www.artstation.com/ananasikfurry">ArtStation</a><br>
-My models on <a href="https://www.cgtrader.com/designers/ananasik">CGTrader</a> and <a href="https://sketchfab.com/furryananasik">Sketchfab</a><br>
+My models on <a href="https://www.cgtrader.com/designers/ananasik">CGTrader</a>, <a href="https://sketchfab.com/furryananasik">Sketchfab</a> and <a href="https://www.turbosquid.com/Search/Artists/Ananaseek">TurboSquid</a><br>
