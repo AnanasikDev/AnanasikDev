@@ -21,7 +21,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
  **Games:**
 
 1. <a href="https://ananasikdev.github.io/TheSwapEngageWeb/">The Swap: Engage🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🔨</a><br/>
+2. <a href="https://github.com/AnanasikDev/Compile">Compile🔥🔥🧊</a><br/>
 3. <a href="https://github.com/AnanasikDev/LollyJump">Lolly Jump🔥🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/UxClicker">UxClicker🔥🔒</a><br/>
 5. <a href="https://github.com/AnanasikDev/Outlander">Outlander🔒</a><br/>
@@ -31,14 +31,16 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 9. <a href="https://github.com/AnanasikDev/Dessert">Tiny Kiosk (MiniJam #163)🧊</a><br/>
 10. <a href="https://github.com/AnanasikDev/RecycleFactory">Recycle Factory🔒</a><br/>
 11. <a href="https://github.com/AnanasikDev/UniverseJam">Inevitable (UniverseJam #1)🔥🔒</a><br/>
+12. <a href="https://github.com/AnanasikDev/bomberman">Bomberman NES Replica🔒</a><br/>
+13. <a href="https://github.com/AnanasikDev/Minecraft">Minecraft Replica🔥🔨</a><br/>
 
  
 **Libraries & Assets:**
 
 1. <a href="https://github.com/AnanasikDev/Willow">Willow Asset🧊🔥</a><br/>
-2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔨</a><br/>
+2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🧊</a><br/>
 3. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔒</a><br/>
-4. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🔨</a><br/>
+4. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
 
 **Other:**
 
