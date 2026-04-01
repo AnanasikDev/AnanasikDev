@@ -64,6 +64,7 @@ I have also been contributing as a translator to other projects such as <a href=
 2. <a href="https://medium.com/@furryananasik/software-driven-devices-essay-2f32cc913ea2">Software-Driven Devices: essay</a> (2024-11)<br/>
 3. <a href="https://gist.github.com/AnanasikDev/9e936cda383ba824bfe58263cae9e07a">How to create a Minecraft server without hustle</a> (2024-11)<br/>
 4. <a href="https://medium.com/@furryananasik/3d-models-to-real-life-figures-bc7ba4def5f3">3D models to real life figures</a> (2025-08)<br/>
+5. <a href="https://ananasikdev.github.io/blog/p/simd_1_en/">SIMD part 1</a> (2026-03-28)<br/>
 
 <hr>
 
