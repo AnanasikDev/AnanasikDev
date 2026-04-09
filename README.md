@@ -41,6 +41,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 2. <a href="https://github.com/AnanasikDev/Hexagon">Hexagon Library🔥🔒</a><br/>
 3. <a href="https://github.com/AnanasikDev/FrameRateDebugger">FPS debugger🔒</a><br/>
 4. <a href="https://github.com/AnanasikDev/EasyDebug">EasyDebug🔥🧊</a><br/>
+5. <a href="https://github.com/AnanasikDev/Not-Enough-Math"/>Not Enough Math🔨</a><br/>
 
 **Other:**
 
@@ -54,7 +55,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 8. <a href="https://github.com/AnanasikDev/BrainfuckInterpreter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"/> Brainfuck interpreter🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/3D-Model-disk-slicer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Blender 3D model slicer🔒</a><br/>
 10. <a href="https://github.com/AnanasikDev/MarineEvolution"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> Genetic brain evolution simulation🔒</a><br/> 
-
+11. <a href="https://github.com/AnanasikDev/Raytracer"/> C++ CPU Ray Tracer + Planet Editor🔒</a><br/>
 
 I have also been contributing as a translator to other projects such as <a href="https://www.hedycode.com/">Hedy</a> and <a href="https://store.steampowered.com/app/2827230/Wild_Assault/">Wild Assault</a>. More about it at <a href="https://hosted.weblate.org/user/Ananaseek/">Weblate</a><br>
 
