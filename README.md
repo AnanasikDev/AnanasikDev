@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game development, programming and art. Having embarked on my journey in **2020 Jan**, I learned **Python**, **C#** + **Unity**, some **C++**, **C** and **Java**. I also led 2 teams on gamejams (Mini Jam <a href="https://itch.io/jam/mini-jam-162-heat">#162</a> and <a href="https://itch.io/jam/mini-jam-163-dessert">#163</a>).
+I am **Ananaseek** or **AnanSeek4Jam** - a young enthusiast with passion for game development, programming and art. Having embarked on my journey in **2020**, I learned **Python**, **C#** + **Unity**, **C++**, **C**, some **Java** and **Unreal Engine 5**.
+
+I joined <a href="https://itch.io/jam/mini-jam-162-heat">Mini Jam #162</a> in a team of 5 (team lead), <a href="https://itch.io/jam/mini-jam-163-dessert">Mini Jam #163</a> in a team of 4 (team lead), <a href="https://github.com/AnanasikDev/UniverseJam">Universe Jam #1</a> in a team of 2 and <a href="https://ananasikdeveloper.itch.io/catdemurse">Furry Game Jam #2</a> solo. 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="28" height="28"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="28" height="28"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="28" height="28"/>
@@ -33,6 +35,7 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 11. <a href="https://github.com/AnanasikDev/UniverseJam">Inevitable (UniverseJam #1)🔥🔒</a><br/>
 12. <a href="https://github.com/AnanasikDev/bomberman">Bomberman NES Replica🔒</a><br/>
 13. <a href="https://github.com/AnanasikDev/Minecraft">Minecraft Replica🔥🔒</a><br/>
+14. <a href="https://ananasikdeveloper.itch.io/catdemurse">Cat De Murse (Furry Game Jam #2)🔒</a><br/>
 
  
 **Libraries & Assets:**
@@ -55,9 +58,9 @@ I am **Ananaseek** or **AnanseekJam** - a young enthusiast with passion for game
 8. <a href="https://github.com/AnanasikDev/BrainfuckInterpreter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"/> Brainfuck interpreter🔥🔒</a><br/>
 9. <a href="https://github.com/AnanasikDev/3D-Model-disk-slicer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Blender 3D model slicer🔒</a><br/>
 10. <a href="https://github.com/AnanasikDev/MarineEvolution"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> Genetic brain evolution simulation🔒</a><br/> 
-11. <a href="https://github.com/AnanasikDev/Raytracer"/> C++ CPU Ray Tracer + Planet Editor🔒</a><br/>
+11. <a href="https://github.com/AnanasikDev/Raytracer"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> CPU Ray Tracer + Planet Editor🔒</a><br/>
 
-I have also been contributing as a translator to other projects such as <a href="https://www.hedycode.com/">Hedy</a> and <a href="https://store.steampowered.com/app/2827230/Wild_Assault/">Wild Assault</a>. More about it at <a href="https://hosted.weblate.org/user/Ananaseek/">Weblate</a><br>
+I also contributed translations to <a href="https://www.hedycode.com/">Hedy</a>, <a href="https://store.steampowered.com/app/2827230/Wild_Assault/">Wild Assault</a> and Open Street Maps. More about it at <a href="https://hosted.weblate.org/user/Ananaseek/">Weblate</a><br>
 
 **Articles:**
 
